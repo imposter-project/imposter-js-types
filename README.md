@@ -1,6 +1,6 @@
 # Imposter TypeScript types
 
-- Code autocompletion for your [Imposter](https://github.com/outofcoffee/imposter) JavaScript or TypeScript scripts.
+- Code autocompletion for your [Imposter](https://github.com/imposter-project/imposter-jvm-engine) JavaScript or TypeScript scripts.
 - ES6 and TypeScript support.
 
 ## Getting started
@@ -126,5 +126,5 @@ See the `src` directory of the [sample projects](./samples) for an example.
 
 ## Related
 
-- [Imposter Mock Engine](https://github.com/outofcoffee/imposter)
+- [Imposter Mock Engine](https://github.com/imposter-project/imposter-jvm-engine)
 - [Imposter JS](https://github.com/imposter-project/imposter-js)

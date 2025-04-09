@@ -8,12 +8,16 @@
     "clean": "rimraf ./dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Imposter Project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imposter-project/imposter-js-types.git"
+  },
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
     "@imposter-js/types": "*",
-    "rimraf": "^3.0.2",
+    "rimraf": "^6",
     "ts-loader": "^9.2.6",
     "typescript": "^4.4.3",
     "webpack": "^5.55.1",

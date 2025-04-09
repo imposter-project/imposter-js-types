@@ -16,7 +16,7 @@
     "@babel/preset-env": "^7.15.6",
     "@imposter-js/types": "*",
     "babel-loader": "^8.2.2",
-    "rimraf": "^3.0.2",
+    "rimraf": "^6",
     "webpack": "^5.55.1",
     "webpack-cli": "^4.8.0"
   }

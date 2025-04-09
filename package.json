@@ -1,6 +1,6 @@
 {
   "name": "@imposter-js/types",
-  "version": "0.2.2",
+  "version": "1.0.0",
   "description": "TypeScript types for Imposter scripts.",
   "repository": {
     "type": "git",
